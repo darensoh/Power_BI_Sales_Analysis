@@ -1,17 +1,17 @@
 # Introduction
-Welcome to the repository for the 📈 Sales Analysis Executive Dashboard created using Power BI. This dashboard is designed to provide 💡 comprehensive insights into our business operations, focusing on key metrics and detailed analysis of our 🧺 products and 🚶‍♂️ customer demographics. The dashboard includes several interactive features such as maps, product details, and customer details. 
+Welcome to the repository for the 📈 Sales Analysis Executive Dashboard created using Power BI. This dashboard is designed to provide 💡 comprehensive insights into business operations, focusing on key metrics and detailed analysis of 🧺 products and 🚶‍♂️ customer demographics. The dashboard includes several interactive features such as maps, product details, and customer details. 
 
 📷 A screenshot of each section can be seen [here](/https://github.com/nerdrads/Power_BI_Sales_Analysis/blob/main/Dashboard%20Preview.pdf/). CSV Files can be found in the [data folder](https://github.com/nerdrads/Power_BI_Sales_Analysis/tree/main/data). 
 
 # Background
-The development of this Power BI dashboard was initiated to enhance our data visualization capabilities and support data-driven decision-making processes. Our goal was to consolidate data from various sources into a single, coherent platform that allows for easy access to important business metrics. The dashboard is designed to cater to the needs of executives who require a quick yet detailed overview of the company's performance.
+The development of this Power BI dashboard was initiated to enhance data visualization capabilities and support data-driven decision-making processes. The goal was to consolidate data from various sources into a single, coherent platform that allows for easy access to important business metrics. The dashboard is designed to cater to the needs of executives who require a quick yet detailed overview of the company's performance.
 
 # Questions
 The dashboard aims to address the following key questions:
-- 🌎 What are the geographical distributions of our sales and customer base? 
+- 🌎 What are the geographical distributions of the sales and customer base? 
 - 🗺️ How do different products perform in various regions?
-- :atom: What are the demographic details of our customers?
-- 🔍 Can we identify our best customers? 
+- :atom: What are the demographic details of the customers?
+- 🔍 Can we identify the best customers? 
 - ⌛ How can we identify trends and patterns in sales data over time?
 
 # Tools I used
@@ -33,7 +33,7 @@ The dashboard comprises several key sections:
 ![image](https://github.com/user-attachments/assets/0cb34277-dffa-4d79-ad2a-5eae35810ac7)
 
 
-4. **Customer Detail**: This section delves into the demographics of our customer base. It includes information on customer age, gender, and purchase behavior.
+4. **Customer Detail**: This section delves into the demographics of the customer base. It includes information on customer age, gender, and purchase behavior.
 ![image](https://github.com/user-attachments/assets/bddc655a-e086-4852-a735-ed621f2c20ba)
 
 # Designs & Thought Process
@@ -60,4 +60,4 @@ From the analysis provided by the dashboard, we can derive the following insight
 - Return % for certain products seem to be higher than others, hinting at potential quality issues or a mismatch between customer expectations and the product's performance.
 
 # Closing Thoughts
-This Power BI dashboard serves as a vital tool for the executive team, providing them with the necessary insights to make informed decisions. By leveraging this dashboard, we aim to enhance our operational efficiency and drive business growth. This project also enhanced my Power BI skills and provided insightful knowledge onto the business operations of the company. 
+This Power BI dashboard serves as a vital tool for the executive team, providing them with the necessary insights to make informed decisions. By leveraging this dashboard, the aim is to enhance the operational efficiency and drive business growth. This project also enhanced my Power BI skills and provided insightful knowledge onto the business operations of the company. 
