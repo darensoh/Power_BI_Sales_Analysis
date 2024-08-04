@@ -1,7 +1,7 @@
 # Introduction
-Welcome to the repository for the Executive Dashboard created using Power BI. This dashboard is designed to provide comprehensive insights into our business operations, focusing on key metrics and detailed analysis of our products and customer demographics. The dashboard includes several interactive features such as maps, product details, and customer details. 
+Welcome to the repository for the 📈 Executive Dashboard created using Power BI. This dashboard is designed to provide 💡 comprehensive insights into our business operations, focusing on key metrics and detailed analysis of our 🧺 products and 🚶‍♂️ customer demographics. The dashboard includes several interactive features such as maps, product details, and customer details. 
 
-A screenshot of each section can be seen [here](/https://github.com/nerdrads/Power_BI_Sales_Analysis/blob/main/Dashboard%20Preview.pdf/). CSV Files can be found in the [data folder](https://github.com/nerdrads/Power_BI_Sales_Analysis/tree/main/data). 
+🔍 A screenshot of each section can be seen [here](/https://github.com/nerdrads/Power_BI_Sales_Analysis/blob/main/Dashboard%20Preview.pdf/). CSV Files can be found in the [data folder](https://github.com/nerdrads/Power_BI_Sales_Analysis/tree/main/data). 
 
 # Background
 The development of this Power BI dashboard was initiated to enhance our data visualization capabilities and support data-driven decision-making processes. Our goal was to consolidate data from various sources into a single, coherent platform that allows for easy access to important business metrics. The dashboard is designed to cater to the needs of executives who require a quick yet detailed overview of the company's performance.
@@ -24,6 +24,14 @@ The dashboard comprises several key sections:
 3. **Product Detail**: This section offers a detailed analysis of product performance. It includes metrics such as sales volume, revenue, and profit margins for individual products.
 4. **Customer Detail**: This section delves into the demographics of our customer base. It includes information on customer age, gender, and purchase behavior.
 
+# What I learned
+Throughout this project, my mastery of utilizing Power BI has definitely increased:
+
+- **🧩 DAX and Measures :** Delved further into information that could be derived from data by utilising measures and DAX entries.
+- **📊 Data Manipulation:** Familiarised myself with Power Query Editor, learning about more functions to generate insightful results. 
+- **💡 Analytical Wizardry:** Leveled up my real-world puzzle-solving skills, turning questions into meaningful recommendations. 
+
+
 # Insights
 From the analysis provided by the dashboard, we can derive the following insights:
 - Certain regions demonstrate higher sales volumes, indicating potential areas for targeted marketing efforts.
@@ -32,4 +40,4 @@ From the analysis provided by the dashboard, we can derive the following insight
 - Return % for certain products seem to be higher than others, hinting at potential quality issues or a mismatch between customer expectations and the product's performance.
 
 # Closing Thoughts
-This Power BI dashboard serves as a vital tool for our executive team, providing them with the necessary insights to make informed decisions. By leveraging this dashboard, we aim to enhance our operational efficiency and drive business growth. 
+This Power BI dashboard serves as a vital tool for the executive team, providing them with the necessary insights to make informed decisions. By leveraging this dashboard, we aim to enhance our operational efficiency and drive business growth. This project also enhanced my Power BI skills and provided insightful knowledge onto the business operations of the company. 
