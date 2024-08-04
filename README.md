@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/64a6750b-5469-48e1-99b2-b90d2ce6ebf0)# Introduction
-Welcome to the repository for the 📈 Executive Dashboard created using Power BI. This dashboard is designed to provide 💡 comprehensive insights into our business operations, focusing on key metrics and detailed analysis of our 🧺 products and 🚶‍♂️ customer demographics. The dashboard includes several interactive features such as maps, product details, and customer details. 
+# Introduction
+Welcome to the repository for the 📈 Sales Analysis Executive Dashboard created using Power BI. This dashboard is designed to provide 💡 comprehensive insights into our business operations, focusing on key metrics and detailed analysis of our 🧺 products and 🚶‍♂️ customer demographics. The dashboard includes several interactive features such as maps, product details, and customer details. 
 
 🔍 A screenshot of each section can be seen [here](/https://github.com/nerdrads/Power_BI_Sales_Analysis/blob/main/Dashboard%20Preview.pdf/). CSV Files can be found in the [data folder](https://github.com/nerdrads/Power_BI_Sales_Analysis/tree/main/data). 
 
@@ -18,7 +18,7 @@ The dashboard aims to address the following key questions:
 - **Power BI Desktop:** The main face of the data visualization, providing stunning visuals and allowing for interactivity with the users.
 - **Power Query Editor:** A tool within Power BI Desktop, mainly used for data cleaning and data manipulation.
 
-# Analysis
+# Dashboard Breakdown
 The dashboard comprises several key sections:
 1. **Exec Dashboard**: This section showcases a macro overview of sales and return data over various timelines, as well as a glimpse of the top 10 products. 
 ![image](https://github.com/user-attachments/assets/bb3ea59f-32fa-4f66-b375-3cdb68551338)
@@ -34,6 +34,13 @@ The dashboard comprises several key sections:
 
 4. **Customer Detail**: This section delves into the demographics of our customer base. It includes information on customer age, gender, and purchase behavior.
 ![image](https://github.com/user-attachments/assets/bddc655a-e086-4852-a735-ed621f2c20ba)
+
+# Designs & Thought Process
+- Color scheme is derived from company's logo, consisting of Cyan, Black and White.
+- Red colorings are utilized to indicate issues that negatively impact the company e.g. return rate or when targets aren't met.
+- Customer Details segment was created to target our best and worst customers, which would likely require different marketing approaches to generate additional revenue. 
+- Side bars were inserted to allow users to easily go through the 4 different tabs. 
+
 
 
 # What I learned
