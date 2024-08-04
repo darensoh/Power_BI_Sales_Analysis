@@ -1,4 +1,4 @@
-# Introduction
+![image](https://github.com/user-attachments/assets/64a6750b-5469-48e1-99b2-b90d2ce6ebf0)# Introduction
 Welcome to the repository for the 📈 Executive Dashboard created using Power BI. This dashboard is designed to provide 💡 comprehensive insights into our business operations, focusing on key metrics and detailed analysis of our 🧺 products and 🚶‍♂️ customer demographics. The dashboard includes several interactive features such as maps, product details, and customer details. 
 
 🔍 A screenshot of each section can be seen [here](/https://github.com/nerdrads/Power_BI_Sales_Analysis/blob/main/Dashboard%20Preview.pdf/). CSV Files can be found in the [data folder](https://github.com/nerdrads/Power_BI_Sales_Analysis/tree/main/data). 
@@ -21,9 +21,20 @@ The dashboard aims to address the following key questions:
 # Analysis
 The dashboard comprises several key sections:
 1. **Exec Dashboard**: This section showcases a macro overview of sales and return data over various timelines, as well as a glimpse of the top 10 products. 
+![image](https://github.com/user-attachments/assets/bb3ea59f-32fa-4f66-b375-3cdb68551338)
+
+
 2. **Map**: This section provides a visual representation of sales distribution across different regions. It allows users to filter data based on specific geographical areas.
+![image](https://github.com/user-attachments/assets/0bac13c4-e946-4811-96a3-eb3ca330a271)
+
+
 3. **Product Detail**: This section offers a detailed analysis of product performance. It includes metrics such as sales volume, revenue, and profit margins for individual products.
+![image](https://github.com/user-attachments/assets/0cb34277-dffa-4d79-ad2a-5eae35810ac7)
+
+
 4. **Customer Detail**: This section delves into the demographics of our customer base. It includes information on customer age, gender, and purchase behavior.
+![image](https://github.com/user-attachments/assets/bddc655a-e086-4852-a735-ed621f2c20ba)
+
 
 # What I learned
 Throughout this project, my mastery of utilizing Power BI has definitely increased:
