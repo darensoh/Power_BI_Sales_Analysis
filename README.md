@@ -13,6 +13,10 @@ The dashboard aims to address the following key questions:
 - What are the demographic details of our customers?
 - How can we identify trends and patterns in sales data over time?
 
+# Tools I used
+- **Power BI Desktop:** The main face of the data visualization, providing stunning visuals and allowing for interactivity with the users.
+- **Power Query Editor:** A tool within Power BI Desktop, mainly used for data cleaning and data manipulation.
+
 # Analysis
 The dashboard comprises several key sections:
 1. **Exec Dashboard**: This section showcases a macro overview of sales and return data over various timelines, as well as a glimpse of the top 10 products. 
@@ -25,6 +29,7 @@ From the analysis provided by the dashboard, we can derive the following insight
 - Certain regions demonstrate higher sales volumes, indicating potential areas for targeted marketing efforts.
 - Specific products perform exceptionally well in certain markets, suggesting a need for localized product strategies.
 - Demographic data reveals key customer segments that can be targeted for personalized marketing campaigns.
+- Return % for certain products seem to be higher than others, hinting at potential quality issues or a mismatch between customer expectations and the product's performance.
 
 # Closing Thoughts
 This Power BI dashboard serves as a vital tool for our executive team, providing them with the necessary insights to make informed decisions. By leveraging this dashboard, we aim to enhance our operational efficiency and drive business growth. 
