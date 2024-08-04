@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to the repository for the Executive Dashboard created using Power BI. This dashboard is designed to provide comprehensive insights into our business operations, focusing on key metrics and detailed analysis of our products and customer demographics. The dashboard includes several interactive features such as maps, product details, and customer details. 
 
-A screenshot of each section can be seen [here](/https://github.com/nerdrads/Power_BI_Sales_Analysis/blob/main/Dashboard%20Preview.pdf/). CSV Files can be found in the data folder. 
+A screenshot of each section can be seen [here](/https://github.com/nerdrads/Power_BI_Sales_Analysis/blob/main/Dashboard%20Preview.pdf/). CSV Files can be found in the [data folder](https://github.com/nerdrads/Power_BI_Sales_Analysis/tree/main/data). 
 
 ## Background
 The development of this Power BI dashboard was initiated to enhance our data visualization capabilities and support data-driven decision-making processes. Our goal was to consolidate data from various sources into a single, coherent platform that allows for easy access to important business metrics. The dashboard is designed to cater to the needs of executives who require a quick yet detailed overview of the company's performance.
