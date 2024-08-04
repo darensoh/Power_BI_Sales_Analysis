@@ -8,11 +8,11 @@ The development of this Power BI dashboard was initiated to enhance our data vis
 
 # Questions
 The dashboard aims to address the following key questions:
-- What are the geographical distributions of our sales and customer base?
-- How do different products perform in various regions?
-- What are the demographic details of our customers?
-- Can we identify our best customers? 
-- How can we identify trends and patterns in sales data over time?
+- 🌎 What are the geographical distributions of our sales and customer base? 
+- 🗺️ How do different products perform in various regions?
+- :atom: What are the demographic details of our customers?
+- 🔍 Can we identify our best customers? 
+- ⌛ How can we identify trends and patterns in sales data over time?
 
 # Tools I used
 - **Power BI Desktop:** The main face of the data visualization, providing stunning visuals and allowing for interactivity with the users.
