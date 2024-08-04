@@ -25,7 +25,8 @@ The dashboard comprises several key sections:
 
 
 2. **Map**: This section provides a visual representation of sales distribution across different regions. It allows users to filter data based on specific geographical areas.
-![image](https://github.com/user-attachments/assets/0bac13c4-e946-4811-96a3-eb3ca330a271)
+![image](https://github.com/user-attachments/assets/a098f556-629f-4726-acce-f09a8cace635)
+
 
 
 3. **Product Detail**: This section offers a detailed analysis of product performance. It includes metrics such as sales volume, revenue, and profit margins for individual products.
