@@ -11,6 +11,7 @@ The dashboard aims to address the following key questions:
 - What are the geographical distributions of our sales and customer base?
 - How do different products perform in various regions?
 - What are the demographic details of our customers?
+- Can we identify our best customers? 
 - How can we identify trends and patterns in sales data over time?
 
 # Tools I used
