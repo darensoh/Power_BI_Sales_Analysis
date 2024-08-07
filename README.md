@@ -16,7 +16,7 @@ The dashboard aims to address the following key questions:
 
 # Tools I used
 - **Power BI Desktop:** The main face of the data visualization, providing stunning visuals and allowing for interactivity with the users.
-- **Power Query Editor:** A tool within Power BI Desktop, mainly used for data cleaning and data manipulation.
+- **Power Query Editor:** A tool within Power BI Desktop (and Excel), mainly used for data cleaning and data manipulation.
 
 # Dashboard Breakdown
 The dashboard comprises several key sections:
